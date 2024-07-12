@@ -25,13 +25,14 @@ export const navData = [
   },
 ];
 
+
 export const footerData = [
   {
-    href: '/pdf/AP-MESANEX-MAYO-2024.pdf',
+    href: '/pdf/AP.pdf',
     label: 'Privacy',
   },
   {
-    href: '/pdf/TYC-MESANEX-MAYO-2024.pdf',
+    href: '/pdf/TYC.pdf',
     label: 'Terms',
   },
   {
@@ -39,3 +40,4 @@ export const footerData = [
     label: 'Contact Us',
   },
 ];
+
