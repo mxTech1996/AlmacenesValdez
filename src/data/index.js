@@ -1,7 +1,7 @@
 
 export const pageName = "AlmacenesValdez";
-export const primaryColor = "#000000";
-export const backgroundColor = "#FFFFFF";
+export const primaryColor = "#4B0082";
+export const backgroundColor = "#FFF5E1";
 export const makeClearBackground = (color) => {
   return {
     backgroundColor: color,
@@ -13,11 +13,11 @@ export const makeClearBackground = (color) => {
 export const navData = [
   {
     href: '/#products',
-    label: "Let's start!",
+    label: "Our courses",
   },
   {
-    href: '/#our-services',
-    label: 'Our Services',
+    href: '/#mission',
+    label: 'Know Us',
   },
   {
     href: '/#references',
